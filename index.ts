@@ -4,10 +4,7 @@
 //######################################################################
 let num1: number;
 let num2: number;
-
-num1 = 100;
-num2 = 50;
-
+num1 = 10;
+num2 = 30;
 let num3: number;
-num3 = num1 - num2;
-console.log(num3);
+console.log(num1 * num2);
